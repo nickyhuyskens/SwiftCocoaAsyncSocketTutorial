@@ -5,5 +5,5 @@ Setup:
 go to the folder in terminal and run "pod install"
 open the xcworkspace file.
 
-See full tutorial and explination of this project:
+See full tutorial and explanation of this project:
 http://swift2tutorials.blogspot.be/p/swift-2-cocoaasyncsocket-bonjour.html
